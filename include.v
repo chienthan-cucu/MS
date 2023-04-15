@@ -1,0 +1,20 @@
+`define pretrained
+`define numLayers 5
+`define dataWidth 24
+`define numNeuronLayer1 26
+`define numWeightLayer1 26
+`define Layer1ActType "relu"
+`define numNeuronLayer2 10
+`define numWeightLayer2 26
+`define Layer2ActType "relu"
+`define numNeuronLayer3 6
+`define numWeightLayer3 10
+`define Layer3ActType "relu"
+//`define numNeuronLayer4 6
+//`define numWeightLayer4 10
+//`define Layer4ActType "relu"
+//`define numNeuronLayer5 6
+//`define numWeightLayer5 4
+//`define Layer5ActType "hardmax"
+`define sigmoidSize 5
+`define weightIntWidth 8
